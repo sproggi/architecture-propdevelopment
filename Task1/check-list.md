@@ -1,6 +1,3 @@
-# architecture-propdevelopment
-software-architecture course
-
 ### Task1
 
 1. *Классификация данных*:
@@ -21,14 +18,3 @@ software-architecture course
 4. *Оценка рисков*
 
 5. *MindMap*
-
-### Task2
-exercise
-
-### Task3
-exercise
-
-### Task4
-exercise
-
-### Task5

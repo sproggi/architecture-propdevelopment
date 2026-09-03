@@ -1,0 +1,205 @@
+<mxfile host="65bd71144e">
+    <diagram name="Страница 1" id="PGlaXvIdoN0Ug1cH6wxS">
+        <mxGraphModel dx="34909" dy="34484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="PropDevelopment [Software System]" style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;spacing=10;dashPattern=8 4;rotatable=0;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="-5640" y="-3560" width="2380" height="1860" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Клиент [Person]&#xa;Клиент" style="html=1;fontSize=11;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-4870" y="-3860" width="200" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Собственник [Person]&#xa;Клиент" style="html=1;fontSize=11;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-3810" y="-3870" width="200" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Менеджер [Person]&#xa;Работает с клиентами и объектами недвижимости" style="html=1;fontSize=11;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-6090" y="-3110" width="200" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Бизнес-аналитик [Person]&#xa;Оптимизирует процессы и развивает системы" style="html=1;fontSize=11;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-6090" y="-2825" width="200" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Бухгалтер [Person]&#xa;Ведёт бухгалтерский учёт" style="html=1;fontSize=11;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-6090" y="-2310" width="200" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Аналитик BI [Person]&#xa;Анализирует данные и готовит отчётность" style="html=1;fontSize=11;whiteSpace=wrap;fillColor=#083F75;strokeColor=#06315C;fontColor=#ffffff;shape=mxgraph.c4.person2;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="-3142" y="-2499" width="200" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Государственные регистрационные органы [Software System]&#xa;Отвечают за регистрационные действия с объектами недвижимости" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;" vertex="1" parent="1">
+                    <mxGeometry x="-6100" y="-3290" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Поставщик ресурсов ЖКХ [Software System]" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;" vertex="1" parent="1">
+                    <mxGeometry x="-3160" y="-3425" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Платёжная система [Software System]&#xa;Провайдер онлайн-платежей" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#8C8496;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#736782;" vertex="1" parent="1">
+                    <mxGeometry x="-3162" y="-3280" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+                    <mxGeometry x="-4810" y="-3650" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-4740" y="-3625" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+                    <mxGeometry x="-3750" y="-3650" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Firewall" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-3660" y="-3625" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Группа сервисов для клиентов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="-4560" y="-3550" width="100" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Группа сервисов ЖКУ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
+                    <mxGeometry x="-3490" y="-3500" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Витрина продаж [Container: JavaScript, React]&#xa;Витрина для подбора и бронирования объектов недвижимости" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4890" y="-3530" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="client-mart-app [Container: Kotlin, SpringBoot]&#xa;Приложение для предоставления информации об объектах недвижимости и проведения онлайн-сделок" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4890" y="-3350" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="client-mart-db [Container: PostgreSQL]&#xa;База данных для хранения информации об объектах недвижимости и сделкам по ним" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4890" y="-3200" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="client-mart-estate-app [Container: Kotlin, SpringBoot]&#xa;Приложение для управления информацией об объектах недвижимости" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-5210" y="-3350" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="client-mart-estate-db [Container: PostgreSQL]&#xa;База данных объектов недвижимости" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-5210" y="-3150" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="client-tour-app [Container: Kotlin, SpringBoot]&#xa;Приложение для проведения 3D-тура по объекту недвижимости" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4570" y="-3350" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="client-tour-db [Container: PostgreSQL]&#xa;База данных проведения онлайн-тура" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4570" y="-3200" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="client-crm-app [Container: SpringBoot, Dynamics CRM]&#xa;Система управления клиентскими данными" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4890" y="-3020" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="crm-db [Container: MSSQL]&#xa;База данных системы CRM" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4890" y="-2860" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="CRM [Container: Kotlin, Spring Boot]&#xa;Система управления данными собственников" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-3610" y="-3220" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="crm-tenant-db [Container: PostgreSQL]&#xa;База данных CRM по собственникам" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-3611" y="-3040" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="tenant-core-app [Container: Kotlin, SpringBoot]&#xa;Приложение для предоставления услуг собственникам" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4050" y="-3320" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="tenant-core-db [Container: PostgreSQL]&#xa;База данных услуг ЖКХ по собственникам" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4050" y="-3160" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Витрина сервисов для собственников [Container: Mobile App]&#xa;Мобильные приложения для собственников" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-3830" y="-3480" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="auth-service-1 [Container: Keycloak]&#xa;Сервис аутентификации покупателей" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4310" y="-3390" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="auth-db-1 [Container: PostgreSQL]&#xa;База данных сервиса аутентификации покупателей" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4310" y="-3220" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Active Directory [Container: MS Active Directory]&#xa;Служба каталогов для финансовых сервисов" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-5540" y="-2661" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="accountant-service-1 [Container: Keycloak]&#xa;Система бухгалтерского учёта" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-5520" y="-2280" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="Active Directory [Container: MS Active Directory]&#xa;Служба каталогов для бизнес-систем и систем обработки данных" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-5190" y="-1980" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="Хранилище данных [Container: Greenplum]&#xa;Единое хранилище данных для всех систем компании" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;labelBackgroundColor=none;fillColor=#23A2D9;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4615" y="-2520" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="DWH Хранилище [Container: S3]&#xa;Физическое хранилище данных DWH" style="shape=cylinder3;size=15;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;labelBackgroundColor=none;fillColor=#23A2D9;fontSize=12;fontColor=#ffffff;align=center;strokeColor=#0E7DAD;" vertex="1" parent="1">
+                    <mxGeometry x="-4615" y="-2290" width="240" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4" target="31">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-3710" y="-3690"/>
+                            <mxPoint x="-4080.08" y="-3530"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18" target="32">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-4190" y="-3440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="Регистрация&#xa;Аутентификация [REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="41">
+                    <mxGeometry x="0.2782" relative="1" as="geometry">
+                        <mxPoint x="134" y="-30" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="32" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31" target="32">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-3830" y="-3440"/>
+                            <mxPoint x="-4180" y="-3440"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31" target="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-4080.08" y="-3410.01" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="46" value="[REST, WS]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="45">
+                    <mxGeometry x="-0.2095" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="31" target="27">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-3710" y="-3340"/>
+                            <mxPoint x="-3490" y="-3340"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="[REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="47">
+                    <mxGeometry x="-0.3582" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18" target="25">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-4802" y="-3360"/>
+                            <mxPoint x="-4920" y="-3360"/>
+                            <mxPoint x="-4920" y="-2990"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="50" value="Регистрация клиента&#xa;Карточка клиента&#xa;Профиль клиента [REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="49">
+                    <mxGeometry x="0.5831" relative="1" as="geometry">
+                        <mxPoint x="9" y="28" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18" target="21">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="-4830" y="-3390"/>
+                            <mxPoint x="-5090" y="-3390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="52" value="Получить данные по объектам недвижимости [REST]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="51">
+                    <mxGeometry x="-0.2933" relative="1" as="geometry">
+                        <mxPoint x="-70" y="-2" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="19" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="[JDBC]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="53"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
